@@ -9,15 +9,15 @@
 [![Ansible Galaxy](https://img.shields.io/badge/galaxy-albanandrieu.ansible--nabla-660198.svg?style=flat)](https://galaxy.ansible.com/alban.andrieu/ansible-nabla)
 [![Platforms](http://img.shields.io/badge/platforms-windows%20/%20macosx%20/%20ubuntu%20/%20redhat-lightgrey.svg?style=flat)](#)<br/>
 
-Hooks (python)
+### Hooks (python)
 
 [![Jenkins build Status](http://albandrieu.com/jenkins/buildStatus/icon?job=nabla-hooks)](http://albandrieu.com/jenkins/job/nabla-hooks/)
 
-CPP (c++)
+### CPP (c++)
 
 [![Jenkins build Status](http://albandrieu.com/jenkins/buildStatus/icon?job=nabla-cpp-interview-microsoft-cmake)](http://albandrieu.com/jenkins/job/nabla-cpp-interview-microsoft-cmake/)
 
-Jenkins master and slave
+### Jenkins master and slave (ubuntu)
 
 [![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-jenkins-slave-docker.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-jenkins-slave-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-docker)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-docker)<br/>
@@ -25,7 +25,7 @@ Jenkins master and slave
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-test)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-test)<br/>
 
 
-Eclipse
+### Eclipse (editor)
 
 [![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-eclipse.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-eclipse)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-eclipse)](https://hub.docker.com/r/nabla/ansible-eclipse)<br/>
@@ -36,10 +36,6 @@ Eclipse
 
 <!--[![Stackexchange profile](https://stackexchange.com/users/flair/4652074.png)](https://stackexchange.com/users/4652074)-->
 
-![Profile views](https://komarev.com/ghpvc/?username=AlbanAndrieu&color=green)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabla/)
-
 # Table of contents
 
 <!-- toc -->
@@ -49,9 +45,15 @@ Eclipse
 
 ### Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=AlbanAndrieu&color=green)
+
 - ⚡ Looking for a DevSecOps: ...
 
 ![Devops](http://albandrieu.com/nabla/index/assets/logo-devops.png)
+
+- 📫 How to reach me: ...
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabla/)
 
 <!--
 **AlbanAndrieu/AlbanAndrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,7 +65,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
 -->
