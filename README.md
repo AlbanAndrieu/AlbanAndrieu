@@ -1,6 +1,6 @@
 
 
-## [![Nabla](http://albandrieu.com/nabla/index/assets/nabla/nabla-4.png)](https://github.com/AlbanAndrieu) nabla
+## [![Nabla](http://albandrieu.com/nabla/index/assets/nabla/nabla-4.png)](https://github.com/AlbanAndrieu) nabla - AlbanAndrieu
 
 [![License](http://img.shields.io/:license-apache-blue.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
@@ -21,6 +21,10 @@
 
 ### Hi there 👋
 
+- ⚡ Looking for a DevSecOps: ...
+
+![Devops](http://albandrieu.com/nabla/index/assets/logo-devops.png)
+
 <!--
 **AlbanAndrieu/AlbanAndrieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,5 +37,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
