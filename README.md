@@ -9,6 +9,8 @@
 [![Ansible Galaxy](https://img.shields.io/badge/galaxy-albanandrieu.ansible--nabla-660198.svg?style=flat)](https://galaxy.ansible.com/alban.andrieu/ansible-nabla)
 [![Platforms](http://img.shields.io/badge/platforms-windows%20/%20macosx%20/%20ubuntu%20/%20redhat-lightgrey.svg?style=flat)](#)<br/>
 
+<!--
+
 ### Hooks (python)
 
 [![Jenkins build Status](http://albandrieu.com/jenkins/buildStatus/icon?job=nabla-hooks)](http://albandrieu.com/jenkins/job/nabla-hooks/)
@@ -16,6 +18,8 @@
 ### CPP (c++)
 
 [![Jenkins build Status](http://albandrieu.com/jenkins/buildStatus/icon?job=nabla-cpp-interview-microsoft-cmake)](http://albandrieu.com/jenkins/job/nabla-cpp-interview-microsoft-cmake/)
+
+-->
 
 ### Jenkins master and slave (ubuntu)
 
