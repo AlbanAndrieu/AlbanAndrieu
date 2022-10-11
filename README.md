@@ -23,10 +23,10 @@
 
 ### Jenkins master and slave (ubuntu)
 
-[![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-jenkins-slave-docker.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-jenkins-slave-docker)
+[![Build Status](https://app.travis-ci.com/AlbanAndrieu/ansible-jenkins-slave-docker.svg?branch=master)](https://app.travis-ci.com/AlbanAndrieu/ansible-jenkins-slave-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-docker)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-docker)<br/>
-[![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-jenkins-slave.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-jenkins-slave)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-test)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-test)<br/>
+[![Travis CI](https://img.shields.io/travis/AlbanAndrieu/jenkins-pipeline-scripts.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/jenkins-pipeline-scripts)
+[![Docker Pulls](https://img.shields.io/docker/pulls/nabla/jenkins-pipeline-scripts)](https://hub.docker.com/r/nabla/jenkins-pipeline-scripts)<br/>
 
 
 ### Eclipse (editor)
