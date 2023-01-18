@@ -53,7 +53,7 @@
 
 - ⚡ Looking for a DevSecOps: ...
 
-![Devops](http://albandrieu.com/nabla/index/assets/logo-devops.png)
+![Devops](https://bababou.albandrieu.com/nabla/index/assets/logo-devops.png)
 
 - 📫 How to reach me: ...
 
