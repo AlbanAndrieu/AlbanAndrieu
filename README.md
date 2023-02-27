@@ -34,9 +34,15 @@
 [![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-eclipse.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-eclipse)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-eclipse)](https://hub.docker.com/r/nabla/ansible-eclipse)<br/>
 
-![nvuillam's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=dark&show_icons=true)
+![AlbanAndrieu's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=dark&show_icons=true)
 
-![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=radical&layout=compact&card_width=445)
+![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=tokyonight&layout=compact&card_width=445)
+
+### Repositories
+
+<a href="https://github.com/AlbanAndrieu/nabla-servers-bower-sample">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlbanAndrieu&repo=nabla-servers-bower-sample&theme=tokyonight" />
+</a>
 
 <!--[![Stackexchange profile](https://stackexchange.com/users/flair/4652074.png)](https://stackexchange.com/users/4652074)-->
 
