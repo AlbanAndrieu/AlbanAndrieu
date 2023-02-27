@@ -34,9 +34,9 @@
 [![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-eclipse.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-eclipse)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-eclipse)](https://hub.docker.com/r/nabla/ansible-eclipse)<br/>
 
-![AlbanAndrieu's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=dark&show_icons=true)
+![AlbanAndrieu's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=tokyonight&show_icons=true)
 
-![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=radical&layout=compact&card_width=445)
+![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=tokyonight&layout=compact&card_width=445)
 
 ### Repositories
 
