@@ -36,7 +36,7 @@
 
 ![AlbanAndrieu's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=dark&show_icons=true)
 
-![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=tokyonight&layout=compact&card_width=445)
+![AlbanAndrieu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbanAndrieu&langs_count=8&theme=radical&layout=compact&card_width=445)
 
 ### Repositories
 
