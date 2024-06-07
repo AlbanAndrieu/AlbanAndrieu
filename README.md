@@ -23,15 +23,12 @@
 
 ### Jenkins master and slave (ubuntu)
 
-[![Build Status](https://app.travis-ci.com/AlbanAndrieu/ansible-jenkins-slave-docker.svg?branch=master)](https://app.travis-ci.com/AlbanAndrieu/ansible-jenkins-slave-docker)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-docker)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-docker)<br/>
-[![Travis CI](https://img.shields.io/travis/AlbanAndrieu/jenkins-pipeline-scripts.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/jenkins-pipeline-scripts)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/jenkins-pipeline-scripts)](https://hub.docker.com/r/nabla/jenkins-pipeline-scripts)<br/>
 
 
 ### Eclipse (editor)
 
-[![Travis CI](https://img.shields.io/travis/AlbanAndrieu/ansible-eclipse.svg?style=flat)](https://travis-ci.org/AlbanAndrieu/ansible-eclipse)
 [![Docker Pulls](https://img.shields.io/docker/pulls/nabla/ansible-eclipse)](https://hub.docker.com/r/nabla/ansible-eclipse)<br/>
 
 ![AlbanAndrieu's github stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&theme=tokyonight&show_icons=true)
