@@ -42,7 +42,7 @@
 
 - ⚡ Looking for a DevSecOps: ...
 
-![Devops](https://bababou.albandrieu.com/nabla/index/assets/logo-devops.png)
+![Devops](https://nabla.albandrieu.com/assets/logo-devops.png)
 
 
 ### Jenkins master and slave (ubuntu)
