@@ -95,9 +95,9 @@ I'm a passionate DevSecOps engineer with a love for solving complex problems thr
 
 ### 🐳 Docker Images
 
-[![Jenkins Slave](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-docker?style=flat-square&logo=docker)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-docker)
-[![Jenkins Pipeline](https://img.shields.io/docker/pulls/nabla/jenkins-pipeline-scripts?style=flat-square&logo=docker)](https://hub.docker.com/r/nabla/jenkins-pipeline-scripts)
-[![Eclipse IDE](https://img.shields.io/docker/pulls/nabla/ansible-eclipse?style=flat-square&logo=docker)](https://hub.docker.com/r/nabla/ansible-eclipse)
+[![Jenkins Slave](https://img.shields.io/docker/pulls/nabla/ansible-jenkins-slave-docker?style=flat&logo=docker)](https://hub.docker.com/r/nabla/ansible-jenkins-slave-docker)
+[![Jenkins Pipeline](https://img.shields.io/docker/pulls/nabla/jenkins-pipeline-scripts?style=flat&logo=docker)](https://hub.docker.com/r/nabla/jenkins-pipeline-scripts)
+[![Eclipse IDE](https://img.shields.io/docker/pulls/nabla/ansible-eclipse?style=flat&logo=docker)](https://hub.docker.com/r/nabla/ansible-eclipse)
 
 ---
 
