@@ -74,6 +74,11 @@ I'm a passionate DevSecOps engineer with a love for solving complex problems thr
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Jean Zay](https://img.shields.io/badge/Jean_Zay-Supercomputer-0055A4?style=flat)
 
+**AI**  
+![FastAPI](https://img.shields.io/badge/FastAPI_MCP-009688?style=flat&logo=fastapi&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDIyaDhMMjAgMnoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
 <details>
 <summary><b>🔍 Full Technology Stack</b></summary>
 <br/>
