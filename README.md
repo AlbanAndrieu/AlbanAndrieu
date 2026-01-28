@@ -39,7 +39,7 @@ I'm a passionate DevSecOps engineer with a love for solving complex problems thr
 ![WAF](https://img.shields.io/badge/WAF-FF6B6B?style=flat&logo=cloudflare&logoColor=white)
 ![IDS](https://img.shields.io/badge/IDS-DC143C?style=flat&logo=security&logoColor=white)
 ![EDR](https://img.shields.io/badge/EDR-8B0000?style=flat&logo=security&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy_Scan-1904DA?style=flat&logo=trivy&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-000000?style=flat&logo=kalilinux&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0066CC?style=flat&logo=iso&logoColor=white)
 ![SOC 2](https://img.shields.io/badge/SOC_2-4A90E2?style=flat&logo=security&logoColor=white)
