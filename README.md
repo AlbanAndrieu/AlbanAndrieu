@@ -63,7 +63,7 @@ I'm a passionate DevSecOps engineer with a love for solving complex problems thr
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
-![Victoria Metrics](https://img.shields.io/badge/Victoria_Metrics-621773?style=flat&logoColor=white)
+![Victoria Metrics](https://img.shields.io/badge/Victoria%20Metrics-621773?style=flat)
 
 **Machine Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
