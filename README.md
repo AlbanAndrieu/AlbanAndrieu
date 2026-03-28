@@ -129,15 +129,7 @@ GitLab
 [![Jenkins Pipeline](https://img.shields.io/docker/pulls/nabla/jenkins-pipeline-scripts?style=flat&logo=docker)](https://hub.docker.com/r/nabla/jenkins-pipeline-scripts)
 [![Eclipse IDE](https://img.shields.io/docker/pulls/nabla/ansible-eclipse?style=flat&logo=docker)](https://hub.docker.com/r/nabla/ansible-eclipse)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlbanAndrieu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
 
 ---
 
