@@ -23,9 +23,13 @@
 I'm a passionate DevSecOps engineer with a love for solving complex problems through automation, security, and innovation. I specialize in building secure, scalable infrastructure and implementing CI/CD pipelines that empower development teams.
 
 🔭 **Currently working on**: DevSecOps automation and ML infrastructure
+
 🌱 **Learning**: Advanced Kubernetes security, ML Ops, and cloud-native technologies
+
 ⚡ **Looking for**: DevSecOps collaboration opportunities
+
 💬 **Ask me about**: Security, AI, CI/CD, Docker, Kubernetes, Ansible, Python
+
 📫 **Reach me at**: [nabla.albandrieu.com](https://nabla.albandrieu.com)
 
 ---
